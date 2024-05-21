@@ -1,0 +1,668 @@
+header img{
+    margin: 2vw 0 0 2vw;
+    width: 9vw;
+    padding-bottom: 20px;
+}
+
+body {
+
+    background-color: #252237;
+    background-image: url("https://psv4.userapi.com/c909328/u465135524/docs/d44/3848ee9256ab/vallie.jpg?extra=vQqZb9EhtK2DwUMNL4foSIU3l3Rat00pClotdg903ac7b6Tx4FclfM7ITj5gVH3STtj-yfSJC_ApgyrM7LMRPvW3m6GRBPB4Cx_t61_mKEkoFSF8F6aiFh6jhuC20C8PkV62lpGWiDBvM1gPlskYZmYiTw");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.group1 {
+    display: flex;
+}
+
+.photo_1{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.block_1{
+    display: flex;
+    flex-direction: column;
+    margin-left: 10%;
+    position: absolute;
+}
+
+.photo_1 img{
+    width: 100%;
+    max-width: 2044px;
+}
+
+h1 {
+    font-family: "Palanquin", system-ui;
+    color: #FFFFFF;    
+    font-size: 5vw;
+}
+
+.text1 {
+    color: #FFFFFF;
+    font-family: Calibri, sans-serif;
+    font-size: 1.5vw;
+    font-weight: 400px;
+
+}
+
+.text_b{
+    font-size: 2vw;
+
+}
+
+.block_1 button{
+    margin-top: 10px;
+    border-radius: 10px;      
+    text-align: center;
+    border-width: o;
+    border-style: solid;
+    border-color: #E2521D;
+    background-color: #E2521D;
+    box-shadow: 0px 0px 55px 0px #CA0050;     
+    transition: transform 0.3s ease;    
+    color: white;    
+    padding: 10px;
+}
+
+.block_1 button:hover {
+    background-color: #ff4400;
+    box-shadow: 0px 0px 55px 2px #ca0f5a;
+    transform: scale(1.1);
+}
+
+.group2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    flex-direction: row;
+}
+
+.photo_2 img{
+    width: 100%;
+    max-width: 40vw;
+}
+
+h3 {
+    font-family: "Palanquin", system-ui;
+    color: #FFFFFF;
+    font-weight: 700px;
+    font-size: 5vw;
+
+}
+
+.text3 {
+    font-family: "Palanquin", system-ui;
+    color: #E2521D;
+    font-weight: 400px;
+    font-size: 2vw;
+}
+
+.text4 {
+    font-family: "Palanquin", system-ui;
+    color: #8997AB;
+    font-weight: 400;
+    font-size: 1.5vw;
+
+}
+
+.h31 {
+    font-family: "Palanquin", system-ui;
+    color: #FFFFFF;
+    font-weight: 700px;
+    font-size: 5vw;
+    text-align: center;
+}
+
+.cont2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.sircle1 {
+    transition: transform 0.3s ease;
+}
+
+.sircle1 img{
+    width: 100%;
+    max-width: 7vw;
+}
+
+.sircle1:hover {
+    filter: drop-shadow(0px 0px 5px #E2521D ); 
+    transform: scale(1.1);
+}
+
+.sircle2 img{
+    width: 100%;
+    max-width: 7vw;
+}
+
+.sircle2 {
+    transition: transform 0.3s ease;
+}
+
+.sircle2:hover {
+    filter: drop-shadow(0px 0px 5px #E2521D ); 
+    transform: scale(1.1);
+}
+
+.text6 {
+    font-family: "Palanquin", system-ui;
+    color: #FFFFFF;
+    font-size: 1vw;
+}
+
+.str1 {
+    display: flex;
+    justify-content: space-around;
+    align-items: stretch;
+}
+
+.num1 {
+    display: flex;
+    flex-direction: column;
+    width: 40vw;
+}
+
+.num2 {
+    display: inline-block;
+}
+
+.sircle3 {
+    transition: transform 0.3s ease;
+}
+
+.sircle3 img{
+    width: 100%;
+    max-width: 7vw;
+}
+
+.sircle3:hover {
+    filter: drop-shadow(0px 0px 5px #E2521D ); 
+    transform: scale(1.1);
+}
+
+.text7 {
+    font-family: "Palanquin", system-ui;
+    color: #FFFFFF;
+    font-size: 1vw;
+
+}
+
+.sircle4 {
+    transition: transform 0.3s ease;
+}
+
+.sircle4:hover {
+    filter: drop-shadow(0px 0px 5px #E2521D ); 
+    transform: scale(1.1);
+}
+
+.sircle4 img{
+    width: 100%;
+    max-width: 7vw;
+}
+
+.text5 {
+    font-family: "Palanquin", system-ui;
+    color: #FFFFFF;
+    font-size: 1vw;
+}
+
+.text6 {
+    font-family: "Palanquin", system-ui;
+    color: #FFFFFF;
+    font-size: 1vw;
+}
+
+.str1 {
+    display: flex;
+}
+
+.text7 {
+    font-family: "Palanquin", system-ui;
+    color: #FFFFFF;
+    font-size: 1vw;
+
+}
+
+.text8 {
+    font-family: "Palanquin", system-ui;
+    color: #FFFFFF;
+    font-size: 1vw;
+}
+
+.str2 {
+    display: flex;
+    justify-content: space-around;
+    align-items: stretch;
+}
+
+.num3{
+    width: 40vw;
+}
+
+.group3 {
+    display: flex;
+    justify-content: center;
+}
+
+.group4 {
+    margin-top: 4vw;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.h32 {
+    font-family: "Palanquin", system-ui;
+    color: #FFFFFF;
+    font-weight: 700px;
+    font-size: 50px;
+}
+
+
+/* Списки */
+
+
+
+.dropbtn {  
+    background: #0E1B28;
+    color: white;
+    border: none;
+    cursor: pointer;
+    position: relative;
+  }
+
+  .dropbtn p{
+    padding-left: 10px;
+  }
+  .dropbtn2 p{
+    padding-left: 10px;
+  }
+  .dropbtn3 p{
+    padding-left: 10px;
+  }
+
+  .dropdown button{
+    min-width: 53vw;
+    font-size: 1vw;
+    text-align: start;
+    padding: 5px;
+  }
+
+  .dropbtn:hover, .dropbtn:focus {
+    background: #E2521D;
+    box-shadow: 0 0 20px #ff4400;
+  }
+  
+  .dropdown {
+    position: relative;
+    display: inline-block;
+    margin-bottom: 10px;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: relative;
+  }
+  
+  .dropdown-content p {
+    color: #8997AB;
+    text-decoration: none;
+    display: block;
+    position: relative;
+    padding-left: 3vw;
+    font-size: 1vw;
+  }
+  
+  .dropdown-content a:hover {background-color: #ddd}
+  
+  .show {display:block;}
+
+
+  .dropbtn2 {  
+    background: #0E1B28;
+    color: white;
+    border: none;
+    cursor: pointer;
+    position: relative;
+
+  }
+
+  .dropdown2 button{
+    width: 39vw;
+    min-width: 20vw;
+    font-size: 1vw;
+    text-align: start;
+    padding: 5px;
+  }
+
+  .dropbtn2:hover, .dropbtn2:focus {
+    background: #E2521D;
+    box-shadow: 0 0 20px #ff4400;
+  }
+  
+  .dropdown2 {
+    position: relative;
+    display: inline-block;
+    margin-bottom: 10px;
+  }
+  
+  .dropdown-content2 {
+    display: none;
+    position: relative;
+  }
+  
+  .dropdown-content2 p {
+    color: #8997AB;
+    text-decoration: none;
+    display: block;
+    position: relative;
+    padding-left: 3vw;
+    font-size: 1vw;
+  }
+  
+  .dropdown-content2 a:hover {background-color: #ddd}
+  .show2 {display:block;}
+
+  .dropbtn3 {  
+    background: #0E1B28;
+    color: white;
+    border: none;
+    cursor: pointer;
+    position: relative;
+
+  }
+
+  .dropdown3 button{
+    width: 39vw;
+    min-width: 20vw;
+    font-size: 1vw;
+    text-align: start;
+    padding: 5px;
+  }
+
+  .dropbtn3:hover, .dropbtn3:focus {
+    background: #E2521D;
+    box-shadow: 0 0 20px #ff4400;
+  }
+  
+  .dropdown3 {
+    position: relative;
+    display: inline-block;
+    margin-bottom: 10px;
+  }
+  
+  .dropdown-content3 {
+    display: none;
+    position: relative;
+  }
+  
+  .dropdown-content3 p {
+    color: #8997AB;
+    text-decoration: none;
+    display: block;
+    position: relative;
+    padding-left: 3vw;
+    font-size: 1vw;
+  }
+  
+  .dropdown-content3 a:hover {background-color: #ddd}
+  .show3 {display:block;}
+
+
+.text_sps h2{
+    font-family: "Palanquin", system-ui;
+    color: white;
+    font-size: 5vw;
+    text-align: center;
+}
+
+.group5{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 3vw;
+}
+
+.photo_3 img {
+    width: 50vw;
+}
+
+.selll{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.group6{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.blk1{
+    display: flex;
+    gap: 40px;
+}
+
+.blk1 h4{
+    font-family: "Palanquin", system-ui;
+    color: white;
+    font-size: 2vw;
+    margin: 1vw;
+}
+
+.blk1 p{
+    color: #8997AB;
+    font-family: 'Arial';
+    line-height: 1.6vw;
+    font-size: 1vw;
+}
+
+.blk1 svg{
+    width: 5.6vw;
+    height: 5.6vw;
+}
+
+.blk2{
+    display: flex;
+    gap: 40px;
+}
+
+.blk2 h4{
+    font-family: "Palanquin", system-ui;
+    color: white;
+    font-size: 2vw;
+    margin: 1vw;
+}
+
+.blk2 p{
+    color: #8997AB;
+    font-family: 'Arial';
+    line-height: 1.6vw;
+    font-size: 1vw;
+}
+
+.blk2 svg{
+    width: 5.6vw;
+    height: 5.6vw;
+}
+
+.group7{
+    margin-top: 5vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.group7 a{
+    background-color: #E2521D;
+    color: white;
+    text-align: center;
+    width: 60vw;
+    padding: 3vw 0 3vw 0;
+    font-size: 1.2vw;
+    text-decoration: none;
+    font-family: 'Arial';
+}
+
+.group7 a:hover{
+    box-shadow: 0 0 20px #ff4400;
+}
+
+.group7 h4{
+    top: 2vw;
+    margin: 0;
+}
+
+.two_mouth{
+    font-size: 0.9vw;
+    margin: 0;
+    position: relative;
+    top: -1vw;
+}
+
+.group8{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2vw;
+    flex-direction: column;
+}
+
+.check{
+    display: flex;
+    gap: 10vw;
+}
+
+.group8 svg{
+    width: 5vw;
+    height: 5vw;
+}
+
+.one{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.one p{
+    font-size: 1.1vw;
+    font-family: 'Arial';
+    color: white;
+    line-height: 1.6vw;
+}
+
+.line{
+    border-color: #706470;
+    width: 48vw;
+    margin-top: 3vw;
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+footer h3{
+    font-size: 1.4vw;
+}
+
+.pink{
+    color: #CA0050;
+}
+
+.grey{
+    color: gray;
+}
+
+footer p{
+    color: white;
+    font-family: 'Arial';
+}
+
+footer form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.soglasie{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.email_{
+    border: 0.05vw solid #E2521D;
+    width: 23vw;
+    background-color: #393C57;
+    border-radius: 0.5vw;
+    font-size: 1vw;
+    padding: 1vw;
+}
+
+.otpravit{
+    margin: 1vw;
+    border: none;
+    width: 25vw;
+    background-color: #E2521D;
+    border-radius: 0.5vw;
+    font-size: 1vw;
+    padding: 1vw;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+.zap{
+    font-size: 0.8vw;
+}
+
+.soglasie p{
+    margin-left: 0.5vw;
+    font-size: 0.7vw;
+}
+
+input.cheket{
+    width: 1.5vw;
+    height: 1.5vw;
+}
+
+.end{
+    display: flex;
+    justify-content: space-between;
+    gap: 3vw;
+    align-items: center;
+    margin-top: 2vw;
+}
+
+.end p{
+    padding-top: 1vw;
+    margin: 0;
+    line-height: 1.6vw;
+    font-size: 0.8vw;
+}
+
+.end svg{
+    margin-right: 1vw;
+    width: 2.2vw;
+    height: 2.2vw;
+}
+
