@@ -281,7 +281,6 @@ h3 {
     cursor: pointer;
     position: relative;
   }
-
   .dropbtn p{
     padding-left: 10px;
   }
@@ -291,14 +290,14 @@ h3 {
   .dropbtn3 p{
     padding-left: 10px;
   }
-
   .dropdown button{
+    font-family: "Palanquin", system-ui;
     min-width: 53vw;
     font-size: 1vw;
     text-align: start;
     padding: 5px;
+    border-radius: 2px;
   }
-
   .dropbtn:hover, .dropbtn:focus {
     background: #E2521D;
     box-shadow: 0 0 20px #ff4400;
@@ -316,6 +315,7 @@ h3 {
   }
   
   .dropdown-content p {
+    font-family: "Palanquin", system-ui;
     color: #8997AB;
     text-decoration: none;
     display: block;
@@ -327,25 +327,21 @@ h3 {
   .dropdown-content a:hover {background-color: #ddd}
   
   .show {display:block;}
-
-
   .dropbtn2 {  
     background: #0E1B28;
     color: white;
     border: none;
     cursor: pointer;
     position: relative;
-
   }
-
   .dropdown2 button{
+    font-family: "Palanquin", system-ui;
     width: 39vw;
     min-width: 20vw;
     font-size: 1vw;
     text-align: start;
     padding: 5px;
   }
-
   .dropbtn2:hover, .dropbtn2:focus {
     background: #E2521D;
     box-shadow: 0 0 20px #ff4400;
@@ -363,6 +359,7 @@ h3 {
   }
   
   .dropdown-content2 p {
+    font-family: "Palanquin", system-ui;
     color: #8997AB;
     text-decoration: none;
     display: block;
@@ -373,24 +370,21 @@ h3 {
   
   .dropdown-content2 a:hover {background-color: #ddd}
   .show2 {display:block;}
-
   .dropbtn3 {  
     background: #0E1B28;
     color: white;
     border: none;
     cursor: pointer;
     position: relative;
-
   }
-
   .dropdown3 button{
+    font-family: "Palanquin", system-ui;
     width: 39vw;
     min-width: 20vw;
     font-size: 1vw;
     text-align: start;
     padding: 5px;
   }
-
   .dropbtn3:hover, .dropbtn3:focus {
     background: #E2521D;
     box-shadow: 0 0 20px #ff4400;
@@ -408,6 +402,7 @@ h3 {
   }
   
   .dropdown-content3 p {
+    font-family: "Palanquin", system-ui;
     color: #8997AB;
     text-decoration: none;
     display: block;
